@@ -1,0 +1,48 @@
+[
+  {
+    "id": "0d7df7c8-9cf1-486b-9660-18ec5974d1a9",
+    "title": "Do I Need a CRM Yet?",
+    "excerpt": "Check whether the real problem is software, spreadsheet design, or process ownership before you buy and maintain a CRM.",
+    "slug": "do-i-need-a-crm",
+    "author": "GrowEasy CRM Editorial Team",
+    "publishedAt": "2026-10-15T23:04:46.615Z",
+    "updatedAt": "2026-10-15T23:04:46.615Z",
+    "categories": [
+      "Workflow Diagnosis"
+    ],
+    "tags": [
+      "CRM readiness",
+      "spreadsheet vs CRM",
+      "CRM decision",
+      "small business CRM",
+      "follow-up process"
+    ],
+    "featuredImage": null,
+    "readingTime": 11,
+    "seoTitle": "Do I Need a CRM? Fix, Wait, or Pilot One",
+    "seoDescription": "Use a practical decision worksheet to see whether your business needs a CRM, a cleaner spreadsheet, or a better follow-up process first."
+  },
+  {
+    "id": "4ecbc377-45fb-461b-8047-00705fbb1b69",
+    "title": "CRM Total Cost Calculator for Small Businesses",
+    "excerpt": "Compare two CRM candidates using your own subscription, labor, migration, usage, and retired-tool assumptions over one shared horizon.",
+    "slug": "crm-total-cost-calculator",
+    "author": "GrowEasy CRM Editorial Team",
+    "publishedAt": "2026-07-30T02:08:00.000Z",
+    "updatedAt": "2026-07-30T02:08:00.000Z",
+    "categories": [
+      "CRM Decision Tools"
+    ],
+    "tags": [
+      "CRM total cost",
+      "CRM calculator",
+      "small business CRM",
+      "software selection"
+    ],
+    "featuredImage": null,
+    "readingTime": 7,
+    "seoTitle": "CRM Total Cost Calculator for Small Business",
+    "seoDescription": "Compare two CRM candidates across subscriptions, setup, migration, integrations, admin labor, usage, and real retired-tool savings.",
+    "interactiveModule": "crm-tco-calculator"
+  }
+]
